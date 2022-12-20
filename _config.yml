@@ -7,9 +7,10 @@ plugins:
 
 title: Jiaqi's bolg
 description: 最令人鼓舞的事情莫过于，人类通过有意识的努力来提升自己的生活能力；而这种能力毋庸置疑。---亨利·戴维·梭罗
-
-social:
-    github: jia9iZhang
-    mail: zjq17060212119@163.com
+author:
+    name: Jiaqi.zhang
+    email: "zjq17060212119@163.com"
 
 markdown: kramdown
+
+show_excerpts: true
