@@ -1,4 +1,4 @@
-# 如何测试DNS服务器的响应速度
+﻿# 如何测试DNS服务器的响应速度
 使用``dig``命令， 基本用法``dig <DNS Address> <Address>``
 
 Example：
