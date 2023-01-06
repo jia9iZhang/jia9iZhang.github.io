@@ -6,9 +6,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-[Link to another page](./_post/hello.html).
+[Link to another page](./_posts/hello.html).
 
-[Link to another page](./post/hello.html).
+[Link to another page](./posts/hello.html).
+[Link to another page](./Posts/hello.html).
 
 There should be whitespace between paragraphs.
 
