@@ -19,4 +19,4 @@ tags: charles
 Allow list setting中取消勾选*关闭白名单*.
 
 - 路径: ``tools --> Allow list setting``
-<img src="../assets/image-20230109152319520.png" alt="image-20230109152319520" style="zoom:50%;" />
+![image-20230109152319520.png](./assets/image-20230109152319520.png)
