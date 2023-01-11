@@ -16,7 +16,7 @@ tags: sonar
 
 错误信息：``max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]``
 
-![image-20230109152001736](./assets/image-20230109152001736.png)
+![image-20230109152001736](/assets/image-20230109152001736.png)
 
 ***解决方案***
 
