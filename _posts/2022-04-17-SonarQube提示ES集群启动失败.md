@@ -22,7 +22,7 @@ tags: sonar
 - 配置 /etc/sysctl.conf文件, 添加配置 vm.max_map_count=262144
 
 - 使用命令 sysctl -p ,让配置立即生效
-<img src="./assets/image-20230109152017634.png" style="zoom:50%;" align="left">
+<img src="{{site.url}}/assets/image-20230109152017634.png" style="zoom:50%;" align="left">
 - 重启SonarQube, 成功运行
-<img src="./assets/image-20230109152027646.png" style="zoom:50%;" align="left">
+<img src="{{site.url}}/assets/image-20230109152027646.png" style="zoom:50%;" align="left">
 
