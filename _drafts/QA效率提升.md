@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: "QA效率提升"
 date: 2022-06-05
 categories: "2022"

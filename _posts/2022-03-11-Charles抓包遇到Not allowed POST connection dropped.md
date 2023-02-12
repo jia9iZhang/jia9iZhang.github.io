@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: "Charles抓包遇到Not allowed POST connection dropped"
 date: 2022-03-11
 categories: "2022"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: "如何保证IVR 呼入的质量"
 date: 2023-02-10
 categories: "2023"
