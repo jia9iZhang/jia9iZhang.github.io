@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title: "SonarQube提示ES集群启动失败"
 date: 2022-04-17
 categories: "2022"
