@@ -1,1 +1,4 @@
-网址：https://jia9izhang.github.io/ 记录了我的技术文章，胶片摄影。
+
+> Hello 陌生人，欢迎访问 Jiaqi's Blog
+
+该博客托管于 GitHub Page，记录了我的技术文章，胶片摄影。
