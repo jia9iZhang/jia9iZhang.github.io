@@ -2,8 +2,8 @@
 layout: mypost
 title: "Charles抓包遇到Not allowed POST connection dropped"
 date: 2022-03-11
-categories: "2022"
-tags: charles
+categories: "charles"
+tags: 2022
 ---
 
 ***本地环境配置***

@@ -2,8 +2,8 @@
 layout: mypost
 title: "SonarQube提示ES集群启动失败"
 date: 2022-04-17
-categories: "2022"
-tags: sonar
+categories: "sonar"
+tags: 2022
 ---
 
 ***本地环境配置***
