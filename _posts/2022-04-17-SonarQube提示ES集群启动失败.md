@@ -15,6 +15,9 @@ tags: 2022
 ***问题发现***
 
 错误信息：``max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]``
+
+表示您的操作系统的最大虚拟内存区域数量(vm.max_map_count)太低了。Elasticsearch需要增加这个参数来支持更高的并发性和内存映射文件的使用。
+
 <img src="{{site.url}}/img/image-20230109152001736.png" style="zoom:50%;">
 
 ***解决方案***
