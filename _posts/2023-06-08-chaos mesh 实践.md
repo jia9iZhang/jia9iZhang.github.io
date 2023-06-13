@@ -2,7 +2,7 @@
 layout: mypost
 title: "chaos mesh实践"
 date: 2023-03-30
-categories: "linux"
+categories: "chaos"
 tags: 2023
 ---
 
@@ -46,7 +46,7 @@ kubectl port-forward -n chaos-mesh svc/chaos-dashboard 2333:2333
 
 本次 Chaos 详细信息：
 
-![image-20230612150409274](../img/image-20230612150409274.png)
+![image-20230612150409274]({{site.url}}/img/image-20230612150409274.png)
 
 ```yml
 kind: PodChaos
@@ -70,21 +70,21 @@ spec:
 
 运行 chaos
 
-![image-20230612150008699](../img/image-20230612150008699.png)
+![image-20230612150008699]({{site.url}}/img/image-20230612150008699.png)
 
 结果：
 
-![image-20230612150021628](../img/image-20230612150021628.png)
+![image-20230612150021628]({{site.url}}/img/image-20230612150021628.png)
 
 
 
 暂停chaos：
 
-![image-20230612150040796](../img/image-20230612150040796.png)
+![image-20230612150040796]({{site.url}}/img/image-20230612150040796.png)
 
 结果：
 
-![image-20230612150054841](../img/image-20230612150054841.png)
+![image-20230612150054841]({{site.url}}/img/image-20230612150054841.png)
 
 
 
