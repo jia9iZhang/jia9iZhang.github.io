@@ -30,8 +30,6 @@ HTTP+JSON 的缺点包括：
 4. 客户端和服务端之间的通信需要自行协商，没有像 gRPC 那样明确的 API 规范。
 5. 不够灵活：由于 HTTP+JSON 是一种基于文本的协议，因此在多语言支持、插件扩展等方面不如 gRPC+protobuf 灵活。
 
-
-
 #### 参考
 
 - [比较 gRPC 服务和 HTTP API](https://learn.microsoft.com/zh-cn/aspnet/core/grpc/comparison?view=aspnetcore-6.0)
